@@ -20,4 +20,4 @@ Run executie.exe in the terminal to input and evaluate expressions:
 4 plus [10 minus(10 impartit 2 minus 3)];
 6%4 ori 3;
 
-For more information, check the documentation available in Romanian:**Documentatie_LFC.docx**
+For more information, check the documentation available in Romanian:[Documentatie_LFC.docx](**Documentatie_LFC.docx**)
