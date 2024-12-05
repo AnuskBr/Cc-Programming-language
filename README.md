@@ -14,7 +14,7 @@ This project showcases the creation of a simple programming language compiler us
 3. Compile everything:
     gcc -o executie.exe y.tab.c lex.yy.c
 
-Usage
+## Usage
 Run executie.exe in the terminal to input and evaluate expressions:
 
 4 plus [10 minus(10 impartit 2 minus 3)];
